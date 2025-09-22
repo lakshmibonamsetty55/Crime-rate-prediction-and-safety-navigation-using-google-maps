@@ -1,0 +1,2 @@
+# Crime-rate-prediction-and-safety-navigation-using-google-maps
+Developed a system that predicts crime rates in different areas and provides safe navigation routes using Google Maps  API. Designed real-time and suggests the safest routes based on current crime statistics. Python, Google Maps API, Machine Learning. Enhanced route safety by suggesting alternative paths in areas with higher predicted crime rates.
